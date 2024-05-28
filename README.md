@@ -13,6 +13,7 @@ Welcome to my portfolio! This project showcases my skills, experience, and proje
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Screenshots](#Screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -28,7 +29,7 @@ This portfolio website is a personal project designed to display my professional
 - Interactive elements and animations
 - Sections for About, Experience, Projects, and Contact
 - Clean and modern design
-## screenshots
+## Screenshots
 
 ![page01](https://github.com/shivaydwivedi/My-portfolio/assets/167169823/dc3615b3-5641-481b-9a1d-cbcc49ea229d)
 
