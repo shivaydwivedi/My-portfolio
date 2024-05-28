@@ -28,6 +28,20 @@ This portfolio website is a personal project designed to display my professional
 - Interactive elements and animations
 - Sections for About, Experience, Projects, and Contact
 - Clean and modern design
+## screenshots
+
+![page01](https://github.com/shivaydwivedi/My-portfolio/assets/167169823/dc3615b3-5641-481b-9a1d-cbcc49ea229d)
+
+
+![page02](https://github.com/shivaydwivedi/My-portfolio/assets/167169823/177dcd20-8fe4-4170-ac86-33a09feb800d)
+
+
+![page03](https://github.com/shivaydwivedi/My-portfolio/assets/167169823/0302edcf-a4b4-4d53-bebc-77dfb62080fb)
+
+
+![page04](https://github.com/shivaydwivedi/My-portfolio/assets/167169823/462f19d1-c1a2-480f-9fd6-45a405fb16bc)
+
+
 
 ## Technologies Used
 
